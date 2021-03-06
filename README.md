@@ -1,1 +1,3 @@
-# django-recipe-app-server
+# Django Recipe App Server
+
+Recipe App API source code.
